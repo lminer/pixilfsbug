@@ -3,7 +3,7 @@ authors = [{name = "Luke Miner", email = "lminer@users.noreply.github.com"}]
 dependencies = []
 description = "Add a short description here"
 name = "pixilfsbug"
-requires-python = ">= 3.11"
+requires-python = ">= 3.9"
 version = "0.1.0"
 
 [build-system]
